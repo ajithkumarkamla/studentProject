@@ -1,4 +1,7 @@
-git commandes i learnt todoy
-1. git init
-2. git add
-3. git commit
+im ajith kumar
+<html>
+<head>
+</head>
+<body>
+<h1> welcome to our update code in web page</h1>
+</body>
